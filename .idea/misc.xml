@@ -3,11 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/yerga/AndroidStudioProjects/login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24583333333333332" />
-        <entry key="..\:/Users/yerga/AndroidStudioProjects/login/app/src/main/res/drawable/ic_channel_background.xml" value="0.1" />
-        <entry key="..\:/Users/yerga/AndroidStudioProjects/login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
-        <entry key="..\:/Users/yerga/AndroidStudioProjects/login/app/src/main/res/layout/activity_login.xml" value="0.176" />
-        <entry key="..\:/Users/yerga/AndroidStudioProjects/login/app/src/main/res/layout/activity_main.xml" value="0.2296875" />
+        <entry key="..\:/Users/yerga/AndroidStudioProjects/My/app/src/main/res/layout/activity_main.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/yerga/AndroidStudioProjects/My/app/src/main/res/layout/fragment_home_.xml" value="0.1" />
+        <entry key="..\:/Users/yerga/AndroidStudioProjects/My/app/src/main/res/layout/fragment_login_.xml" value="0.10852713178294573" />
+        <entry key="..\:/Users/yerga/AndroidStudioProjects/My/app/src/main/res/layout/fragment_register_.xml" value="0.1" />
       </map>
     </option>
   </component>
