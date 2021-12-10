@@ -75,7 +75,7 @@ class Login_Fragment : Fragment() {
 
         when {
             TextUtils.isEmpty(username.text.toString().trim()) -> {
-                username.setError("Please Enter Username", icon)
+                username.setError("Please Enter Email", icon)
             }
             TextUtils.isEmpty(password.text.toString().trim()) -> {
                 password.setError("Please Enter Password", icon)
